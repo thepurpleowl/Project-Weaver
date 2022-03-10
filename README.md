@@ -1,5 +1,7 @@
 # Flask by Example
 
+![weaver](relative/path/to/weaver.jpeg?raw=true)
+
 ## Blog Posts
 
 This is the repo for the Real Python blog series, Flask by Example -
