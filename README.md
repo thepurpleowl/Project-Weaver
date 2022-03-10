@@ -1,6 +1,6 @@
 # Flask by Example
 
-![weaver](relative/path/to/weaver.jpeg?raw=true)
+![weaver](weaver.jpeg?raw=true)
 
 ## Blog Posts
 
